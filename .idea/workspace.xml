@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="18a147ea-95a2-4a38-94b2-5df1c3bd222e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminUsersController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminUsersController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/admin/users/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/admin/users/index.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -384,7 +382,7 @@
       <workItem from="1505334734783" duration="2305000" />
       <workItem from="1505391202623" duration="1076000" />
       <workItem from="1505548468041" duration="11677000" />
-      <workItem from="1505850349736" duration="3792000" />
+      <workItem from="1505850349736" duration="3838000" />
     </task>
     <task id="LOCAL-00001" summary="workspace.xml committed from PHPStorm">
       <created>1505850553983</created>
@@ -393,11 +391,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505850553983</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="workspace.xml committed from PHPStorm">
+      <created>1505889130843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1505889130843</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30564000" />
+    <option name="totallyTimeSpent" value="30610000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

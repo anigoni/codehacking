@@ -33,6 +33,8 @@ class AdminUsersController extends Controller
     public function create()
     {
         //
+
+        return view('admin.users.create');
     }
 
     /**
